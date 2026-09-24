@@ -1,0 +1,909 @@
+# WAiFF: companies NOT to pitch as new (built 24 Sep 2026 from all trackers, LinkedIn lists v1-v4 and do-not-contact). Check every new candidate against this, parents and brands included, plus a Gmail sent search by domain.
+# DO-NOT-CONTACT / EXISTING PARTNERS (never propose):
+Air France
+JW Marriott
+MiniMax
+Minimax
+Hailuo
+CapCut
+ByteDance
+Seedance
+TikTok
+TF1
+Fnac
+Pathé
+Canal+
+Station F
+Banijay
+Lotte
+Skolae
+Morphic
+ARTE
+CNC
+JioStar
+Eros
+ZEE5
+Whistling Woods
+Filmustage
+Vidu
+Shengshu
+
+# ALREADY IN CURRENT v4 LIST (do not duplicate as a NEW candidate):
+ABP Network
+AIM Media House (Analytics India Magazine)
+Annapurna Studios
+Bolt.new (StackBlitz)
+BookMyShow (BookMyShow Live)
+CJ ENM
+Capgemini
+Criteo
+Dassault Systèmes
+District by Zomato (Eternal)
+Duolingo
+HT Media Group
+Hisense
+Hombale Films (Astra Studios)
+InMobi / Glance
+India Art Fair (MCH Group)
+Indian Express Group (Screen / Chetak Screen Awards)
+Lexar
+Lokmat Media Group
+MM Activ Sci-Tech Communications (Bengaluru Tech Summit)
+Moloco
+NASSCOM
+NODWIN Gaming (Comic Con India, NH7 Weekender)
+PhysicsWallah
+Picsart
+Pinkvilla
+Pocket FM
+PubMatic
+RSVP Movies / upGrad (Ronnie Screwvala)
+Reddit
+STIRworld (ADFF:STIR)
+Serendipity Arts Foundation
+Snap Inc.
+Spotify
+Supercell
+TECNO / Transsion
+TVAGA (IndiaJoy)
+Teads
+Teamwork Arts (Jaipur Literature Festival)
+The Trade Desk
+Wasabi Technologies
+YourStory Media (TechSparks)
+
+# ALREADY CONTACTED by email/LinkedIn/form in the last 20 days (never propose):
+01.AI
+AAAI / Goafest
+Abundantia Entertainment
+Accor (Asia Pacific)
+Acer
+Acronis
+Acura
+Adani AI Labs
+Adani Digital Labs
+ADATA (XPG)
+ADATA Technology Co., Ltd.
+Adgully
+Aditya Birla Fashion & Retail (ABFRL)
+Aditya Birla Group
+Adobe
+Air India
+AIVA Technologies
+Al Fardan Exchange
+Alfardan Exchange
+Alibaba Cloud
+Amagi
+Amazon MGM Studios / Prime Video
+Amazon Prime Video India
+Amazon Web Services
+Amazon Web Services (AWS)
+AMD
+American Express
+Ampere Computing
+Amul (GCMMF)
+Analog Devices
+AndaSeat
+Angel One
+Anibrain
+Animoto
+Anker
+Anthropic
+AOC / AGON by AOC
+AOC / AGON by AOC (TPV Technology)
+Apollo Hospitals Group
+Apollo Tyres
+Applause Entertainment
+Apple India
+Aputure
+Arm Holdings
+ARRI
+Artflow
+Asian Paints
+ASML
+ASRock
+ASRock Inc.
+AssemblyAI
+ASUS
+ASUS (ROG)
+ASUS India
+AT&T
+Ather Energy
+Atlassian
+Atomos
+Audi India
+Audio-Technica
+Autel Robotics
+Autodesk
+AutoFull
+Avid Technology
+AWS
+Axis Bank
+Backblaze
+Baidu
+Bajaj Electricals
+Bajaj Finserv
+Balaji Telefilms
+Balaji Telefilms Ltd
+Banca Transilvania
+Bandai Namco Entertainment
+Barco NV
+Baseten
+Beijing Zhongguancun Tongli
+Bennett Coleman & Co (Times Group)
+Bennett Coleman & Co. Ltd. (The Times of India)
+BenQ
+BenQ India
+Berger Paints India
+Bharti Airtel
+Biostar
+Bisleri International
+Bitdefender
+Bitget
+Black Forest Labs
+Blackmagic Design
+Blinkit
+Blue Star
+Blue Star India
+BMW Group India
+boAt
+boAt (Imagine Marketing)
+Boehringer Ingelheim
+Bombay Exhibition Centre (NESCO)
+BookMyShow
+Boom Library
+Boris FX
+Bosch India
+Bose Corporation
+Boult Audio
+Brahma AI (Metaphysic + Prime Focus)
+Brigade Group
+Britannia Industries
+Bvlgari
+Bybit
+BYD India
+ByteDance (CapCut)
+Cadence Design Systems
+CAMB.AI
+Campari Group
+Canon
+Canon Europe
+Canon India
+Canon USA
+Canva
+CapCut (ByteDance)
+Captions (Mirage)
+Cartesia
+Cartier
+Cascadeur
+CBFC (Central Board of Film Certification)
+CELSYS
+Cerebras Systems
+CHANEL
+Character.AI
+Chopard
+Christie Digital
+Christie Digital Systems
+Christie Digital Systems USA
+CII (Confederation of Indian Industry)
+Cinepolis India
+Cinesite
+Cineyug
+Cisco
+Civitai
+Clay (clay.com)
+Cleartrip
+Cloudflare
+Cloudinary
+CloudWalk
+CloudWalk, Inc.
+Cohere
+Coinbase
+Collective Artists Network
+Colossyan
+Colour Yellow Productions
+Company
+Conde Nast
+Conde Nast India
+Condé Nast India
+Cooke Optics
+CoreWeave
+CoRover
+CoRover.ai
+Corsair
+CRED
+CrowdStrike
+Crusoe Energy
+Crypto.com
+CtrlS Datacenters
+Cuebric
+CyberLink
+CyberLink / Biostar / NexGen Cloud
+CyberPowerPC
+D-ID
+Dabur India
+Dainik Bhaskar / Malayala Manorama
+Darwinbox
+Databricks
+Datadog
+Decart AI
+DeepBrain AI
+Deepdub
+Deepgram
+DeepMotion
+Dell
+Dell Technologies
+Dell Technologies India
+Delta Corp Limited
+Descript
+Deutsche Bank
+Dharma Productions
+DHL
+Diageo India
+Digital Domain
+DigitalOcean
+Diot-Siaci
+Discord
+DJI
+DLF
+DNA Networks
+DNEG
+DNEG India
+Dolby Laboratories
+DomoAI
+Dream11 (Dream Sports)
+Dream11 / Games24x7 / MPL
+DVV Entertainment
+DXRacer
+E-Factor Experiences Limited
+E2E Networks
+EIZO
+Elai.io
+ElevenLabs
+Elgato (Corsair)
+Emami
+Embracer Group / Wemade / Pearl Abyss / Com2uS
+Emmay & Panorama Studios
+Emmay Entertainment
+EnBW
+Envato
+EPAM Systems
+Epic Games
+Epic Games (Unreal)
+Epidemic Sound
+Epson America
+Eros International
+eToro
+Example Co
+Excel Entertainment
+exchange4media
+Exhibitions India Group
+Exhicon Group
+EY India
+Fable Studio (Showrunner)
+Fable Studio / Showrunner
+fal (fal.ai)
+fal.ai
+FICCI (Media & Entertainment / FRAMES)
+Figma
+FIJI Water
+Filmustage
+Flawless AI
+Fliki
+Flipkart
+FLORA
+Flora (Flora AI)
+Fnac Darty
+Fortinet
+Foundry
+Fountainhead MKTG
+Four Seasons Hotel Mumbai
+Fractal Analytics
+Frame.io, Aniplex, Level Infinite
+Framestore
+Framework Computer
+Freedom Holding Corp
+Freefly Systems
+Freepik / Magnific
+Freshworks
+FTII (Film and Television Institute of India)
+Fujifilm India
+Fujinon (Fujifilm Cine & Broadcast)
+G FUEL
+G.SKILL
+Games24x7
+Gameskraft / WinZO
+Gan.ai
+Garmin
+Genelec
+Genmo
+Genmo AI
+Getty Images
+Gigabyte
+GIGABYTE India
+Glean
+Glean.ai
+GlobalFoundries
+GMR Group
+GMR Sports
+Gnani.ai
+Godox
+Godrej Consumer Products
+Godrej Properties
+Google
+Google (Google DeepMind)
+Google / Google.org
+Google Cloud
+Google Cloud India
+Google DeepMind
+GoPro
+Grand Hyatt Mumbai
+Graphcore
+GRID
+GRID (GRID Esports)
+Groq
+Groww
+GUNNAR Optiks
+Haldiram's
+Haptik (Jio Haptik)
+Harman International (JBL)
+Hasselblad
+Havells India
+Hayat
+HCLTech
+Hedra
+Herman Miller
+Hero MotoCorp
+HeyGen
+Higgsfield AI
+Hiranandani Group
+hoichoi
+Hollyland
+HONOR
+Hotshot (xAI)
+HoYoverse
+HP
+HP Inc
+HP Inc.
+HSBC
+HTC (VIVE / VIVE Arts / VIVE Originals)
+HTC (VIVE / VIVE Arts)
+Huawei
+HubSpot
+Hugging Face
+Hume AI
+HyperX
+Hyundai Motor India
+IA-Meetings
+IBM
+iBUYPOWER
+Ideogram
+Ideogram AI
+IFP (India's Culture Company)
+IHG Hotels & Resorts
+IIFA (International Indian Film Academy)
+iiyama
+illycaffe
+IMAX
+Imperial College London
+Inc42 Media
+India Cements / Chennai Super Kings
+India Cements Ltd / Chennai Super Kings
+India Expo Centre & Mart
+India Today Group
+India Today Group / Living Media India
+IndiaAI Mission (MeitY)
+IndiGo
+Industrial Light & Magic
+Industrial Light & Magic (ILM)
+Informa Markets India
+Infosys
+Innovaccer
+Inorbit Malls
+Insta360
+Intel
+InVideo
+InVideo (Enterprise form)
+iQIYI
+Itau Unibanco
+Itaú Unibanco
+ITC Hotels
+ITC Limited
+IWC Schaffhausen
+iZotope (Boris FX)
+Jagran Prakashan Ltd
+JetSynthesys
+Jio World Centre / NMACC
+JioStar
+JioStar (Jio Studios/Reliance Entertainment)
+JK Tyre & Industries
+JSW Group / JSW Sports
+Julius Baer
+Junglee Pictures
+JW Marriott Mumbai Sahar
+Kaiber AI
+Kakao (Kakao Entertainment)
+Kalyan Jewellers
+Kansai Nerolac
+Kapwing
+Kaspersky
+Kering
+Kick (Kick.com)
+Kimi (Moonshot AI)
+Kingston Technology
+Klarna
+Klaviyo
+Kling AI
+Kore.ai
+KRAFTON
+Kraken
+Krea AI
+Kreissparkasse Biberach
+Krikey AI
+Krutrim AI (Ola Krutrim)
+Kuaishou / Kling AI
+Kuaishou Kling AI
+Kuaishou Technology (Kling AI)
+KuCoin / MEXC / Blockchain.com
+Kuku FM
+Kunlun Tech / Skywork AI
+Kyoorius
+L&T / Piramal / Max Group / Apollo Hospitals
+Lambda (Lambda Labs)
+LANDR
+Laqshya Live Experiences
+Larsen & Toubro (L&T)
+Lavazza Group
+Leela (hotel group)
+Leica Camera AG
+Lemon Tree Hotels
+Lenovo
+Lenovo India
+Lenskart
+Leonardo AI
+Lexus (Lexus Europe)
+LG Electronics
+LG Electronics India
+Liebherr
+Lionsgate
+Lionsgate / Lionsgate Play India
+Loco
+Lodha (Macrotech Developers)
+Logitech
+Logitech G
+LTIMindtree
+LTX Studio (Lightricks)
+Lucasfilm
+Lucasfilm / Industrial Light & Magic
+Lulu Group International
+Luma AI
+Lyca Productions
+Mach Travel Solutions Ltd
+Mach Travel Solutions Ltd (formerly Mach Conferences & Events Ltd)
+Magnific (formerly Freepik)
+Magnific AI (Freepik)
+Maharashtra Directorate of Tourism
+Maharashtra Film, Stage & Cultural Development Corporation (Film City Mumbai)
+Maharashtra Tourism (MTDC / Dept of Tourism)
+Mahindra Electric
+Mahindra Group
+MakeMyTrip
+Mankind Pharma
+Marico
+Marshall Group
+Maruti Suzuki
+Marvell Technology
+Mastercard
+Mastercard India
+Max Group
+Maxon
+Mbc Group
+MCI Group
+MediaTek
+Meesho
+Meitu
+Mercedes-Benz India
+Meshy AI
+Messe Frankfurt India
+Messe Frankfurt Trade Fairs India
+Meta
+MG Motor India
+Michelin
+Micron
+Micron Technology
+Microsoft
+Microsoft India
+Midjourney
+MiniMax
+Ministry of Information & Broadcasting
+Ministry of Rural Development / ex-WAVES OTT (Govt. of India)
+Mirage (Captions)
+Miraj Cinemas
+Miraj Entertainment (Cinemas)
+Miraj Entertainment Ltd
+Mistral AI
+Modal Labs
+monday.com
+Monks
+Monks (Media.Monks)
+Monster Energy
+Moonshot AI
+Moonvalley AI
+Move AI
+MPC (Moving Picture Company)
+MPL (Mobile Premier League)
+MRF
+MRF Limited
+MSI
+Murf AI
+Mux
+Myntra
+MyShell
+Mythri Movie Makers
+Nadiadwala Grandson Entertainment
+Nanlite (via Foto Centre India)
+Native Instruments
+Naver (WEBTOON Entertainment)
+Nazara Technologies
+NDTV
+Nebius
+NESCO / Bombay Exhibition Centre
+Nespresso
+Nestle India
+Netcore Cloud
+NetEase Games
+NETGEAR
+Netweb Technologies
+Network18
+NeuralGarage
+New LinkedIn connections
+NexGen Cloud
+NexGen Cloud (Hyperstack)
+NFDC (National Film Development Corporation) / WAVES Film Bazaar
+Nikon (RED Digital Cinema)
+Nikon India
+Nikon India / RED Digital Cinema
+Nintendo
+noblechairs
+NODWIN Gaming
+Noise
+Noise (Nexxbase)
+Nolibox
+NordVPN (Nord Security)
+Nothing India
+Notion
+Novotel Mumbai Juhu Beach
+NVIDIA
+NVIDIA (cold, employees)
+NY VFXWAALA
+Nykaa
+NZXT
+Oakley
+Oberoi Realty
+OBSBOT
+Odyssey ML
+OKX
+Ola
+Ola Electric
+OnePlus
+OpenAI
+OpenFrame AI Lab
+OPPO
+OpusClip
+OpusClip (Opus.pro)
+Oracle
+Oracle Cloud Infrastructure
+Oura
+OVHcloud
+Palo Alto Networks
+Panasonic
+Panasonic (Lumix) India
+Panavision
+Panorama Studios
+Paper Boat (Hector Beverages)
+Papercup
+Paramount
+Parle Products
+Pathé Films
+Patreon
+Patriot Memory
+Paytm
+Paytm (One97)
+Pen Studios
+PepsiCo India
+Percept Limited
+Pernod Ricard India
+Perplexity AI
+Phoenix Marketcity Mumbai
+PhonePe
+Photoroom
+Pictory
+Pidilite Industries
+Pika
+Pika Labs
+Pine Labs
+Pinterest
+Piramal Group
+PixVerse
+PlayAI (play.ht)
+PNY
+PNY Technologies
+Pocket Aces
+Polestar
+Postman
+Powtoon
+PPDS (Philips professional displays)
+Prana Studios
+Prestige Group
+Prime Focus Technologies
+Progressive Insurance
+Puget Systems
+PVR INOX Ltd
+PVR Limited
+PwC
+Qatar Airways
+QNAP
+QNAP Systems
+Qualcomm
+Quantiphi
+Quantmpic (Teradek India dealer)
+Qube Cinema Technologies
+Radico Khaitan
+Radisson Blu
+Ramoji Film City
+Raymond
+Raymond Lifestyle
+Razer
+Reallusion
+realme
+Recraft
+Recraft AI
+Red Bull
+Red Chillies Entertainment (Redchillies.vfx)
+Reliance Jio
+Renderforest
+Renesas Electronics
+Rephrase.ai
+Replicate
+Reply S.p.A.
+Republic Media Network
+Resemble AI
+Respeecher
+Revolut
+Roblox
+RODE Microphones
+Rogers Communications
+Rokoko
+Roku
+Rolex
+Rooter
+Roy Kapur Films
+Royal Enfield
+RP-Sanjiv Goenka Group
+RP-Sanjiv Goenka Group / RPSG Ventures
+RPSG Ventures
+Rumble
+RunPod
+Runware
+Runway
+Runway AI, Inc.
+RX India
+RX India (Reed Exhibitions)
+S8UL Esports
+Salesforce
+Salesforce India
+SambaNova Systems
+Samsung
+Samsung India
+Samsung Semiconductor
+SanDisk
+SanDisk / Western Digital
+Santander
+Saregama (Yoodlee Films)
+Sarvam AI
+Scale AI
+Scenario AI
+Seagate
+Second mailbox access
+Secretlab
+Sennheiser
+Sennheiser India
+SenseTime
+SentinelOne
+ServiceNow
+ShareChat
+ShareChat & Moj (Mohalla Tech)
+Shemaroo Entertainment
+Shengshu Technology (Vidu)
+Showtime Events India
+Shure
+Shutterstock
+SideFX
+SideFX (Houdini)
+Sigma
+Sikhya Entertainment
+Simplified
+SK Hynix
+Skoda Auto Volkswagen India
+Skullcandy
+Sky
+Skydance Media
+SmallRig
+Smilegate
+Snowflake
+SOBHA Limited
+Sofitel Mumbai BKC
+Sonos
+Sony
+Sony India
+SonyLIV (Culver Max Entertainment)
+Speechify
+SpiceJet
+SRFTI (Satyajit Ray Film and Television Institute)
+Stability AI
+Standard Chartered
+Startup India (DPIIT)
+Startup Mahakumbh (FICCI / DPIIT)
+State Farm
+Station F
+SteelSeries
+StepFun
+STMicroelectronics
+Sula Vineyards
+Sun TV Network Limited
+Sunburn / Spacebound Web Labs
+Suno
+Supa (behavioral health AI agents)
+Supa (ex-Gan.ai)
+Supermicro
+Swarovski
+Swiggy
+Synology
+Synopsys
+Synthesia
+T-Hub
+T-Series
+Taj Hotels (IHCL)
+Take-Two Interactive
+Tamron India
+Tata Communications
+Tata Elxsi Visual Computing Labs
+Tata Motors (Electric Vehicles)
+Tata Steel
+Tata Steel Ltd
+TCL
+TCS
+Tech Entrepreneurs Association of Mumbai (TEAM)
+Tech Mahindra
+Technicolor Creative Studios (MPC)
+Tencent (Hunyuan)
+Tenstorrent
+Tesla India
+Tether
+Texas Instruments
+TF1
+The Leela Palaces, Hotels and Resorts
+The Oberoi Group
+The Park Hotels
+The St. Regis Mumbai
+The Westin Mumbai Powai Lake
+The whole messaging rewrite
+Thomas Cook India
+TiE Delhi-NCR
+Tiger Baby Films
+Tilta
+Titan Company
+Titan Company (Tanishq)
+Together AI
+Toon Boom Animation
+Topaz Labs
+Torrent Group
+TP-Link
+Trend Micro
+Tribeca Festival / Studios
+Trident BKC (Oberoi Group)
+Trident Hotels (Trident BKC)
+Tripo AI
+TSMC
+Turkish Airlines
+Turtle Beach
+TV9 Network
+TVS Motor Company
+Twelve Labs
+Twilio
+Ubisoft
+UBS
+Udio
+UiPath
+Ulanzi
+Ultraviolette Automotive
+Uniphore
+Unity Software
+Unity Technologies
+Universal Music Publishing Group
+Urban Company
+Vast.ai
+Vedanta
+VEED.IO
+Venus Optics (Laowa)
+VerSe Innovation
+Videndum
+Vidnoz
+Vidu (Shengshu Technology)
+Vidu AI (Shengshu Technology)
+ViewSonic
+Viggle AI
+Vimeo
+VinFast
+VIP Industries
+Visa
+vivo India
+Vodafone Idea (Vi)
+Voltas
+VOSS
+VOSS Water USA
+Vultr
+Vyond
+Wacom
+Warner Bros. Discovery (HBO Max)
+WellSaid Labs
+WeShort
+Western Digital (SanDisk Professional)
+Western Digital / SanDisk
+Weta FX
+Whatfix
+WHOOP
+Wipro
+Wise / Payoneer / Checkout.com / Nubank
+Wizcraft International Entertainment
+Wonder Dynamics (Autodesk / Wonder Studio)
+Wonder Dynamics (Autodesk)
+Wonder Studios
+Wondershare (Filmora)
+World Labs
+Writer
+WRITER
+xAI
+Xiaomi
+Xiaomi Technology
+Yash Raj Films
+Yashobhoomi IICC
+Yatra Online
+Yellow.ai
+Yotta Data Services
+Yotta Data Services (referral follow-up)
+YuVerse
+YuVerse (Ajay Bhanushali, warm follow-up)
+Zebronics
+Zee Entertainment Enterprises
+ZEISS India
+Zepp Health / Amazfit
+Zerodha
+Zhipu AI (Z.ai)
+Zhiyun-Tech
+Zoho
+Zoho Corporation
+Zomato (Eternal)
+Zoom
+Zoom (video communications)
+Zoom Corporation (audio recorders, Japan)

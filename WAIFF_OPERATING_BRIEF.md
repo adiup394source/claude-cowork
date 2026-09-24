@@ -584,5 +584,5 @@ Built from a forensic audit of all ~990 campaign emails in Gmail, a sourced best
 5. **Signature:** Aditya Upadhyay / India Ambassador, World AI Film Festival / worldaifilmfestival.com / +91 mobile (WhatsApp). One link only.
 6. **Follow-ups:** in the same thread, each adds something new (a second idea, a peer example, a real date). Never "Following up on the note below". Sponsor: day 3, day 8, day 17 (breakup with referral ask). Organizer: day 3, day 6, day 10.
 7. **Sending:** 20 to 40 new emails a day, weekdays only, 8:00 to 11:00 in the recipient's time zone (use Gmail schedule-send), never in bursts. Never mail an address that has bounced. Verify addresses before sending.
-8. **Top priority fix:** ask WAiFF HQ (Marco / Studio Laffitte) for an official mailbox such as aditya@ or india@worldaifilmfestival.com. Custom-domain senders get about twice the replies of free Gmail, and it proves you represent WAiFF.
+8. **No WAiFF work email is available** (Aditya, 24 Sep 2026). Send from adiup394@gmail.com and compensate: low daily volume, verified addresses only, plain text, one clean link, a consistent signature, and a LinkedIn headline that matches ("India Ambassador, World AI Film Festival").
 

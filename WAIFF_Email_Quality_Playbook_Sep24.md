@@ -68,7 +68,7 @@ The copy was not the only problem, or even the main one. Targeting, sending beha
 9. **Follow up in the same thread, with something new each time.** Never "following up on the note below". (Part F)
 10. **Send 20 to 40 new emails a day, weekdays only, 8 to 11am in their time zone,** with Gmail schedule-send and a few minutes between emails. Never mail a bounced address again. Verify addresses before sending.
 11. **Signature:** Aditya Upadhyay / India Ambassador, World AI Film Festival / worldaifilmfestival.com / +91 mobile (WhatsApp). Type the link as plain text, never pasted from a rendered email. Add one opt-out line: "Not relevant? Just say so and I won't follow up."
-12. **Get an official WAiFF mailbox.** Ask Marco or Studio Laffitte for aditya@ or india@worldaifilmfestival.com. Custom-domain senders get about twice the replies of free Gmail (Hunter, 31M emails), and it proves you represent WAiFF. **This is the single highest-leverage fix.**
+12. **No WAiFF work email is available, so make Gmail look trustworthy.** Use one consistent signature, plain text and one clean link. Keep your LinkedIn headline matching ("India Ambassador, World AI Film Festival") so people can verify you. Keep volume low and addresses verified.
 
 ---
 
@@ -375,7 +375,7 @@ What went wrong:
 | Bounces | Keep under 2%. Verify addresses (Apollo's verified status, Hunter or NeverBounce). Never re-mail a bounced address. Remove it from every list the same day. |
 | Content | Plain text, no images, one clean link, no attachments, no tracking pixel. |
 | Holidays | Navratri starts 11 Oct, Dussehra is 20 Oct and Diwali 8 Nov. Push India first touches before 9 Oct, pause during Diwali week (6 to 11 Nov), and resume after. |
-| Mailbox | Ask HQ for an official @worldaifilmfestival.com address (Rule 12). |
+| Mailbox | No WAiFF work email is available. Stay on Gmail and follow Rule 12. |
 
 **IST send times:**
 
@@ -424,7 +424,7 @@ What went wrong:
 
 ## Part K. Questions for Marco (they unlock stronger emails)
 
-1. **Official mailbox:** can Aditya get aditya@ or india@worldaifilmfestival.com?
+1. **Ambassador proof:** is there an ambassador page or appointment letter on the WAiFF site to link to? (A work email is not available.)
 2. **Licence fee:** EUR or USD 50,000? What exclusivity scope and term? Who runs the India jury?
 3. **Air France:** is it a WAiFF sponsor? In writing, with the edition.
 4. **Rate card:** which applies to sponsors Aditya brings? The 2027 deck (EUR 50k / 100k / 200k / 400k) or the Silver/Gold card (EUR 75k to 450k)?
