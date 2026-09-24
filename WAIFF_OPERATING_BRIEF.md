@@ -27,7 +27,7 @@
 | **Industry engagement, added 3 Sep 2026, per Screen Daily and independent press:** Ron Howard, James Cameron and Matthew McConaughey have engaged with the festival; a Val Kilmer AI-generated performance trailer drew attention; Mathieu Kassovitz spoke at Pro Talks. **A copyright controversy also occurred** (a shortlisted film resembling Aardman's Wallace & Gromit was withdrawn) — don't volunteer this, but don't deny it if a contact raises it | Implying formal endorsement or sponsorship by any of these individuals — they engaged with/spoke at the festival, that's all that's confirmed |
 | **Press coverage, added 3 Sep 2026:** Screen Daily, Le Monde, Le Figaro, Paris Match, BFM Business, BBC, plus a 2.5+ hour live special on CCTV-6 in China and 1B+ estimated cumulative visibility across Chinese media/social (this last figure is from Aditya's deck, not independently verified — flag as "estimated" if pressed) | Presenting the deck's "1B+" figure as independently confirmed |
 
-Founded 2025 by Marco Landi via the Institut EuropIA, with the Alpes-Maritimes Department. Known confirmed partners: JW Marriott Cannes, Minimax, ARTE, TF1, Canal+, CNC (Centre National du Cinéma), Station F, FNAC, Pathé, Banijay.
+Founded 2025 by Marco Landi via the Institut EuropIA, with the Alpes-Maritimes Department. Known confirmed partners: JW Marriott Cannes, Minimax, ARTE, TF1, Canal+, CNC (Centre National du Cinéma), Station F, FNAC, Pathé, Banijay, Air France (confirmed by Aditya 24 Sep 2026: existing sponsor and partner).
 
 **No verified major Indian figure is associated with WAiFF's global editions beyond Aditya himself as India Ambassador — don't name one unless Aditya confirms it.**
 
@@ -68,6 +68,7 @@ Same rule on LinkedIn: only people connected through this campaign. Never Aditya
 
 - Any existing or prior WAiFF sponsor or partner (see section 2 list — no commission is payable on these)
 - ByteDance, CapCut, and anything else in that group
+- Air France: already a WAiFF sponsor and partner (Aditya, 24 Sep 2026). Never pitch it or its people.
 - Companies claimed by the competing ambassador team, including the studio group referred to as "GOZ"
 - JioStar, Eros (Eros International), ZEE5, Whistling Woods International — flagged by the co-founder, already reached out to
 - Anyone already logged as contacted in the trackers
