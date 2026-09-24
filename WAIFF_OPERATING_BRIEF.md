@@ -13,6 +13,16 @@
 
 ## 2. THE FACTS — use these exact formulations, never paraphrase loosely
 
+> **CORRECTIONS, 24 Sep 2026 (override anything below that conflicts).** Source: full audit of the official WAiFF files in `waiff data/`, the 2026 printed programme, the 2027 rules and deck, and independent press. Details and sources: `WAIFF_Email_Quality_Playbook_Sep24.md`, Part C.
+> - **Numbers:** in writing say "more than 5,000 AI films from over 80 countries" (2026). Do NOT use "6,000+ from 100+ countries": official programme and press say about 5,400 to 5,500 films from 80+ countries.
+> - **Editions:** 2025 (1st) was in **Nice**; 2026 (2nd) was the first in Cannes; 6-7 April 2027 is the **third edition** (never "third Cannes edition"). Istanbul (4 Nov), London (24 Nov) and Buenos Aires (30 Oct) are **upcoming**, not completed. Say "around a dozen national editions on the Road to Cannes". Do NOT say "15+ countries, 30+ cities", Montreal/Vancouver or Amman (only in AI-generated slides).
+> - **People:** Gong Li was **President** of WAiFF 2026 (not jury president); Agnes Jaoui was jury president; Claude Lelouch honorary president; Jean-Michel Jarre ambassador. **Delete Ron Howard, James Cameron, Matthew McConaughey and Val Kilmer**: no WAiFF source links them to the festival.
+> - **Sponsors you may name:** CapCut (CapCut Prize), MiniMax/Hailuo (named prize), JW Marriott Cannes, Skolae, Morphic at Cannes 2026; Lotte backed **Seoul**. Genario is an "official partner", not a sponsor. Pathe partnered the 2025 Nice edition. TF1, ARTE, Station F, Banijay, Fnac: "partners", never "sponsors".
+> - **Air France:** stays on do-not-contact per Aditya, but no WAiFF document shows it as a sponsor (it is a long-time Festival de Cannes partner). Never name it as a WAiFF sponsor in writing. Ask Marco for written confirmation.
+> - **Licence fee:** Aditya's letters say "around USD 50,000"; the brief says EUR 50,000; the MoU template leaves it blank. Confirm currency with Marco before quoting it again.
+> - **Organizer wording:** never "local winners go to Cannes". Say "India puts one film forward for the WAIFF Horizons competition at the Cannes Grand Finale".
+> - **Name:** "World AI Film Festival (WAiFF)". Never "World AI International Film Festival" or "WAFF" (both appear in older decks and letters).
+
 | Say this | Never say this |
 |---|---|
 | World AI Film Festival (WAiFF) | World AI **International** Film Festival — not the registered name |
@@ -27,7 +37,7 @@
 | **Industry engagement, added 3 Sep 2026, per Screen Daily and independent press:** Ron Howard, James Cameron and Matthew McConaughey have engaged with the festival; a Val Kilmer AI-generated performance trailer drew attention; Mathieu Kassovitz spoke at Pro Talks. **A copyright controversy also occurred** (a shortlisted film resembling Aardman's Wallace & Gromit was withdrawn) — don't volunteer this, but don't deny it if a contact raises it | Implying formal endorsement or sponsorship by any of these individuals — they engaged with/spoke at the festival, that's all that's confirmed |
 | **Press coverage, added 3 Sep 2026:** Screen Daily, Le Monde, Le Figaro, Paris Match, BFM Business, BBC, plus a 2.5+ hour live special on CCTV-6 in China and 1B+ estimated cumulative visibility across Chinese media/social (this last figure is from Aditya's deck, not independently verified — flag as "estimated" if pressed) | Presenting the deck's "1B+" figure as independently confirmed |
 
-Founded 2025 by Marco Landi via the Institut EuropIA, with the Alpes-Maritimes Department. Known confirmed partners: JW Marriott Cannes, Minimax, ARTE, TF1, Canal+, CNC (Centre National du Cinéma), Station F, FNAC, Pathé, Banijay.
+Founded 2025 by Marco Landi via the Institut EuropIA, with the Alpes-Maritimes Department. Known confirmed partners: JW Marriott Cannes, Minimax, ARTE, TF1, Canal+, CNC (Centre National du Cinéma), Station F, FNAC, Pathé, Banijay, Air France (confirmed by Aditya 24 Sep 2026: existing sponsor and partner).
 
 **No verified major Indian figure is associated with WAiFF's global editions beyond Aditya himself as India Ambassador — don't name one unless Aditya confirms it.**
 
@@ -68,6 +78,7 @@ Same rule on LinkedIn: only people connected through this campaign. Never Aditya
 
 - Any existing or prior WAiFF sponsor or partner (see section 2 list — no commission is payable on these)
 - ByteDance, CapCut, and anything else in that group
+- Air France: already a WAiFF sponsor and partner (Aditya, 24 Sep 2026). Never pitch it or its people.
 - Companies claimed by the competing ambassador team, including the studio group referred to as "GOZ"
 - JioStar, Eros (Eros International), ZEE5, Whistling Woods International — flagged by the co-founder, already reached out to
 - Anyone already logged as contacted in the trackers
@@ -464,7 +475,7 @@ Every cold sponsor/organizer email sent through 3-4 Sep used one template struct
 - **Subject:** short, specific, varies per send — not a fixed template phrase repeated verbatim. Reference the real hook, not "Partnership Opportunity." (e.g. "the AI cinema thing I mentioned" is too casual for cold; better: "WAiFF x [Company] — Cannes to Mumbai" or a short question tied to their own recent news.)
 - **Line 1:** the personalized, researched hook — no change, this part already works and stays.
 - **Line 2, in the SAME breath as the hook:** who WAiFF is and the ask, compressed into 1-2 sentences, not a full paragraph. Cut the founder bio / leadership names / press coverage from the first email entirely — save it for when they ask or reply. Two numbers maximum (e.g. "6,000+ submissions, 100+ countries" is plenty; drop the rest).
-- **Line 3: one binary CTA.** Not "happy to share sponsorship tiers if useful" — ask a real yes/no question: "Worth a 15-minute call this week?" or "Should I send over the sponsorship deck?"
+- **Line 3: one binary CTA.** Not "happy to share sponsorship tiers if useful" — ask a real yes/no question: "Worth a 15-minute call this week?" or "Should I send over the sponsorship deck?" **[Superseded 24 Sep 2026: never offer the deck in a cold email. Use an interest question. See section 21.]**
 - **Total length target: 80-120 words, sign-off included.** If it doesn't fit, cut the WAiFF description further, not the CTA.
 - **Vary sentence structure and paragraph order company to company** — same information, different shape, so it doesn't read as a mail-merge even when it technically is one.
 - This does not apply retroactively to the ~70 already sent (no value in re-litigating those), but governs every new send from here on, and is worth testing: if reply rates on the new shorter format noticeably beat the old format over the next 1-2 weeks, that is itself useful signal to record in the session log.
@@ -559,3 +570,36 @@ Whoever organizes a local edition has the authority to structure and promise ben
 to their own sponsors for that edition, because it is the organizer's own event. This
 is why Aditya can offer a filmmaking hackathon, a named award, or other formats beyond
 the standard tier sheet.
+
+---
+
+## 21. MAIL QUALITY STANDARD, 24 Sep 2026 (supersedes sections 7, 10 and 16 where they conflict)
+
+Built from a forensic audit of all ~990 campaign emails in Gmail, a sourced best-practice study, and a verified WAiFF fact book. Full playbook with templates, subject lines and examples: **`WAIFF_Email_Quality_Playbook_Sep24.md`**. The pre-send checklist in that file is mandatory.
+
+1. **Targeting before copy.** Write to a named owner of budget, activation or new IP. Never press@, media@, support@, care@, info@, helpdesk@, reservations@, investor relations or the company secretary. (Nearly half of recipients so far were role inboxes.)
+2. **One company, one sequence.** Never pitch a company again under a new subject. Up to 3 people per company, each in a separate, role-specific email, 2 to 3 days apart. **No CC, no BCC.**
+3. **Subject:** 2 to 5 words, lowercase or sentence case, names them or one concrete asset. Banned: "opportunity", "partnership", "sponsorship", "X x WAiFF", em dashes, prices, fake "Re:".
+4. **Body:** 50 to 90 words (organizer up to 110). Line 1 is a dated fact about them. One WAiFF fact, one specific idea built for them, one proof point, one interest question ("Worth a look?", "Open to a one-page outline?"). No meeting demand, no calendar link, no deck, no ROI or reach numbers.
+5. **Signature:** Aditya Upadhyay / India Ambassador, World AI Film Festival / worldaifilmfestival.com / +91 mobile (WhatsApp). One link only.
+6. **Follow-ups:** in the same thread, each adds something new (a second idea, a peer example, a real date). Never "Following up on the note below". Sponsor: day 3, day 8, day 17 (breakup with referral ask). Organizer: day 3, day 6, day 10.
+7. **Sending:** 20 to 40 new emails a day, weekdays only, 8:00 to 11:00 in the recipient's time zone (use Gmail schedule-send), never in bursts. Never mail an address that has bounced. Verify addresses before sending.
+8. **No WAiFF work email is available** (Aditya, 24 Sep 2026). Send from adiup394@gmail.com and compensate: low daily volume, verified addresses only, plain text, one clean link, a consistent signature, and a LinkedIn headline that matches ("India Ambassador, World AI Film Festival").
+
+---
+
+## 22. ADITYA'S DECISIONS, 25 Sep 2026 (override sections 7, 16 and 21 where they conflict)
+
+1. **Email format:** use `WAIFF_Email_Writer_Prompt_FINAL.md` exactly. Greeting "Hi there team,". Researched opening, fixed WAiFF block (sponsor or organizer), why-you section, 2 to 3 ideas, 20-minute meeting ask. No phone number in the signature. Long, detailed emails are accepted by Aditya's choice. Track reply rates weekly.
+2. **One body per company, sent to TO plus BCC:** TO is a named decision-maker. BCC is other named decision-makers plus the company's own published PR, media or partnerships inbox on the same domain. PR desks have forwarded us to the right team before. Never support, care, investor relations, company secretary, agencies or personal addresses.
+3. **LinkedIn:** connect only with Managing Directors, CEOs, founders, CMOs and heads of partnerships or brand.
+4. **Research pipeline:**
+   - Gemini (team) or Cowork finds companies with `WAIFF_Gemini_Research_Prompt_FINAL.md`.
+   - People are found with the Google AI search extension.
+   - Emails come from Apollo.
+   - DeepSeek (team) or Cowork writes the email.
+   - Follow-ups and replies are handled from screenshots in the chat.
+5. **Volume:** the team sends 100 to 200 a day. Split across several inboxes, weekdays, in the recipient's morning. Never re-mail a bounced address.
+6. **Scope:** sponsorship is sold for WAiFF as a whole (Cannes, any edition, several editions or India). Target 50 sponsors and large packages. Companies with India operations come first.
+7. **Name:** World AI Film Festival (WAiFF) only.
+
