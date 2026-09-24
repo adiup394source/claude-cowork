@@ -164,7 +164,7 @@ I'm Aditya Upadhyay, India Ambassador for the World AI Film Festival (WAiFF), th
 
 Hi Shivam,
 
-Your work taking the razr to the FIFA World Cup 2026 as its official smartphone was a sharp move. It put a design phone in front of a global audience at exactly the right moment.
+Motorola becoming the official smartphone partner of the FIFA World Cup 2026, with its own razr edition, was a sharp move. It put a design phone in front of a global audience at exactly the right moment.
 
 [LinkedIn WAiFF lines: sponsor]
 
