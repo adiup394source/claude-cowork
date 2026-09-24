@@ -586,3 +586,20 @@ Built from a forensic audit of all ~990 campaign emails in Gmail, a sourced best
 7. **Sending:** 20 to 40 new emails a day, weekdays only, 8:00 to 11:00 in the recipient's time zone (use Gmail schedule-send), never in bursts. Never mail an address that has bounced. Verify addresses before sending.
 8. **No WAiFF work email is available** (Aditya, 24 Sep 2026). Send from adiup394@gmail.com and compensate: low daily volume, verified addresses only, plain text, one clean link, a consistent signature, and a LinkedIn headline that matches ("India Ambassador, World AI Film Festival").
 
+---
+
+## 22. ADITYA'S DECISIONS, 25 Sep 2026 (override sections 7, 16 and 21 where they conflict)
+
+1. **Email format:** use `WAIFF_Email_Writer_Prompt_FINAL.md` exactly. Greeting "Hi there team,". Researched opening, fixed WAiFF block (sponsor or organizer), why-you section, 2 to 3 ideas, 20-minute meeting ask. No phone number in the signature. Long, detailed emails are accepted by Aditya's choice. Track reply rates weekly.
+2. **One body per company, sent to TO plus BCC:** TO is a named decision-maker. BCC is other named decision-makers plus the company's own published PR, media or partnerships inbox on the same domain. PR desks have forwarded us to the right team before. Never support, care, investor relations, company secretary, agencies or personal addresses.
+3. **LinkedIn:** connect only with Managing Directors, CEOs, founders, CMOs and heads of partnerships or brand.
+4. **Research pipeline:**
+   - Gemini (team) or Cowork finds companies with `WAIFF_Gemini_Research_Prompt_FINAL.md`.
+   - People are found with the Google AI search extension.
+   - Emails come from Apollo.
+   - DeepSeek (team) or Cowork writes the email.
+   - Follow-ups and replies are handled from screenshots in the chat.
+5. **Volume:** the team sends 100 to 200 a day. Split across several inboxes, weekdays, in the recipient's morning. Never re-mail a bounced address.
+6. **Scope:** sponsorship is sold for WAiFF as a whole (Cannes, any edition, several editions or India). Target 50 sponsors and large packages. Companies with India operations come first.
+7. **Name:** World AI Film Festival (WAiFF) only.
+

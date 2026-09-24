@@ -5,6 +5,14 @@ description: Use before drafting, reviewing or sending any WAiFF sponsor or orga
 
 # WAiFF Mail Quality
 
+**25 Sep 2026 override:** the email format now follows `WAIFF_Email_Writer_Prompt_FINAL.md` and brief section 22:
+- Greeting "Hi there team,".
+- The fixed WAiFF blocks, which make emails longer.
+- TO plus BCC, with the company's own PR, media or partnerships inbox allowed in BCC.
+- No phone number.
+
+Where this skill says otherwise on those four points, section 22 wins. Everything else here (verified facts, banned claims, no em dashes, no prices or decks, research first, reply standard) still applies.
+
 Read `WAIFF_Email_Quality_Playbook_Sep24.md` (repo root) before writing. It is the standard, built from an audit of ~990 sent emails, a sourced best-practice study, and a verified WAiFF fact book. `WAIFF_OPERATING_BRIEF.md` section 2 (corrections block) and section 21 point to it.
 
 ## Before writing
