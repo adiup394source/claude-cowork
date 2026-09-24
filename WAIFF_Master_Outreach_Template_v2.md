@@ -11,6 +11,8 @@
 
 **Sender.** Aditya Upadhyay, India Ambassador, World AI Film Festival (WAiFF). All mail goes from adiup394@gmail.com, because there is no WAiFF work email. Every email is written as Aditya, in his voice.
 
+**The goal.** Sell big. Packages go up to about EUR 450,000, and Aditya earns 15%, so the target is 50 sponsors. Aditya can sell any edition to anyone: a company may want Cannes, its home edition, several editions, or India. Companies with operations in India come first, but any well-funded company worldwide is a valid sponsor.
+
 **The festival.** The name is always **World AI Film Festival (WAiFF)**.
 - Never "World AI International Film Festival", "WAFF" or "WAIFF India Festival".
 - It is **not** the Cannes Film Festival. Always say "the Palais des Festivals in Cannes".
@@ -69,7 +71,7 @@ Use at most **one or two** per email.
 | "6,000+ from 100+ countries", "15+ countries, 30+ cities", "300+ professionals", "5,000+ participants" | These figures are not in WAiFF's official materials. |
 | "Third Cannes edition", "Cannes 2025" | 2025 was in Nice. |
 | "Jury President Gong Li" | She was festival President. |
-| Matthew McConaughey, Ron Howard, James Cameron, Val Kilmer | No WAiFF source links them to the festival. |
+| Matthew McConaughey, Ron Howard, James Cameron, Val Kilmer, "Hollywood and Bollywood artists", "30+ countries / 30+ editions" | No WAiFF source links them to the festival. |
 | Air France, TF1, ARTE, Station F, Banijay or Google "as sponsors" | Not shown in WAiFF documents. |
 | "World's first / largest AI film festival" | Not true. |
 | "India edition confirmed / launching", "15 December", "Mumbai", "founding sponsor group", "[Company]'s India edition" | The edition is not public. The last one was a merge bug that went to about 54 companies. |
@@ -83,7 +85,15 @@ Use at most **one or two** per email.
 ## 4. Who we write to
 
 **Sponsor companies must pass all four tests:**
-1. **Tech-led or creator-facing.** Software or hardware, or something AI filmmakers and creators use. The niches are open, and section 8 has the idea menu.
+1. **Aligned with film, AI filmmaking or creators.** This covers:
+   - Film studios and production houses.
+   - Film equipment: cameras, lenses, lighting, audio, rigs.
+   - Every tool in the AI filmmaking chain: image and video generation, dubbing and voice, editing, upscaling.
+   - Gaming hardware, and cloud and compute.
+   - Local Indian AI companies, and global AI companies with India operations.
+   - Creator platforms, streaming and consumer tech.
+
+   The niches are open, and section 8 has the idea menu.
 2. **Real money.** Public, a unicorn, or Series B or later.
 3. **Proof they already pay for big events**, with a link from the last 2 years.
 4. **A reason to want AI filmmakers, creators or a Cannes stage.**
@@ -99,10 +109,13 @@ Replies came almost only from companies whose product touches filmmakers or crea
 - **TO:** one named decision-maker.
   - Sponsor: CMO, VP or head of brand, head of partnerships or sponsorships, head of creator or community marketing, or country MD.
   - Organizer: CEO or MD, founder, head of IP or live events, or strategy head.
-- **BCC:** at most 2 more **named** decision-makers at the **same company and same email domain**. Pick them from different teams: brand, partnerships, creator marketing.
-- **Never** TO or BCC: press@, media@, pr@, support@, care@, help@, info@, helpdesk@, reservations@, sales@, careers@, investor relations, company secretary, legal, board, an agency, or a personal Gmail, Yahoo or Hotmail address.
+- **BCC:** up to 3 addresses at the **same company and same email domain**:
+  - 1 or 2 more **named** decision-makers from other teams (brand, partnerships, creator marketing, India head).
+  - The company's **own published** partnerships, marketing, PR or media inbox (for example partnerships@, marketing@, press@, media@). PR and media desks have forwarded us to the right team before, NVIDIA's india-pr desk among them.
+- **Never** TO or BCC: support@, care@, help@, helpdesk@, info@ (unless it is the only published contact), reservations@, sales@, careers@, investor relations, company secretary, legal, board, an outside agency, or a personal Gmail, Yahoo or Hotmail address.
 - **Verify every address** (Apollo verified or Hunter). Never mail an address that has bounced before.
 - The greeting names the TO person only ("Hi Priya,"), never "Hi team".
+- **LinkedIn:** connect only with Managing Directors, CEOs, founders, CMOs and heads of partnerships or brand. They make these decisions.
 - **One company gets one body, one thread, one sequence.** Never pitch the same company again under a new subject.
 - Note: BCC to several people at one company can read as a mass send. When there is time, a separate short email to the second person 2 to 3 days later performs better. BCC stays the team default for speed.
 
@@ -152,20 +165,28 @@ If HOOK 1, EVENT SPONSORSHIP PROOF or a named TO is missing, **do not write the 
 - Banned words: opportunity, partnership, sponsorship, collaboration, invitation, exclusive, proposal, "X x WAiFF", em dash, price, "Re:" or "Fwd:" on a new email.
 - The subject must match line 1 of the body.
 
-**BODY, sponsor (50 to 90 words, five short paragraphs)**
+**BODY, sponsor: Variant A, the standard (100 to 150 words)**
 1. **Hi {TO first name},**
-2. **Why you, why now:** HOOK 1 in one sentence, written as a plain observation, not flattery.
-3. **The WAiFF fact** that makes the link obvious, in one sentence. Use the Grand Finale date and venue, plus one proof point from section 2. Add the edition city if there is an EDITION MATCH.
-4. **"Idea: ..."**: one concrete asset built around their product, in one sentence.
-5. **One interest question:** "Worth a look?", "Open to a one-page outline?", or "Is this on your 2027 radar?"
+2. **Appreciation, researched:** one or two sentences on something real and recent they did (HOOK 1, and HOOK 2 if strong). Write it as a specific observation, never flattery. This is the line that proves a human read about them.
+3. **Who we are and the momentum, with data:** "I'm Aditya Upadhyay, India Ambassador for the World AI Film Festival (WAiFF), founded by Marco Landi, former President and COO of Apple." Then two or three verified facts from section 2. For example:
+   - The 2026 edition at the Palais des Festivals in Cannes, presided over by Gong Li, drew more than 5,000 AI films from over 80 countries.
+   - Entries more than tripled in a year.
+   - CapCut and MiniMax each presented a named prize on stage.
+   - The third edition, the Grand Finale, is on 6 and 7 April 2027, with national editions from Seoul to Buenos Aires feeding it.
+4. **The intersection:** connect their data to WAiFF in one or two sentences, and offer one concrete idea from section 8, built around their product or market. Mention the edition city if there is an EDITION MATCH.
+5. **The meeting ask:** "Could we find 20 minutes next week? I can work around your time zone." Keep it to one question.
 
-**BODY, organizer (up to 110 words)**
+**BODY, sponsor: Variant B, the short test (50 to 90 words)**
+Same order, but with one fact in line 3 and an interest question ("Worth a look?"). Industry data says shorter emails get more replies. Send Variant B to about 20% of each day's batch, and compare replies weekly in the tracker.
+
+**BODY, organizer (120 to 170 words)**
 1. **Dear {TO first name},**
-2. **Their IP or event in one sentence** (HOOK 1), and why it proves they can run this.
-3. **The licence model:** "The World AI Film Festival, founded by Marco Landi (former President and COO of Apple), licenses one company per country to run its national edition. Kyoto, Seoul and Istanbul already work this way. India is still open, for December."
-4. **What they keep:** "The licensee owns the edition and keeps its revenue: submissions, tickets, sponsors. India also puts one film forward for the WAIFF Horizons competition at the Grand Finale in Cannes."
-5. **Why it fits their business**, in one line.
-6. **"Would a 20-minute look be useful?"**
+2. **Appreciation:** their IP or event (HOOK 1), and why it proves they can run this.
+3. **Who we are and the momentum:** the same data line as the sponsor version, with two facts.
+4. **The licence model:** "WAiFF licenses one company per country to run its national edition. Kyoto, Seoul and Istanbul already work this way, and the Kaydan Group took a ten-country Africa franchise. India is still open, for December."
+5. **What they keep:** "The licensee owns the edition and keeps its local revenue: submissions, tickets, its own sponsors, hackathons and broadcast. India also puts one film forward for the WAIFF Horizons competition at the Grand Finale in Cannes."
+6. **Why it fits their business**, in one or two lines.
+7. **"Could we find 20 minutes this week? Happy to call or WhatsApp."**
 
 **CLOSE (always the same)**
 ```
@@ -184,6 +205,10 @@ Type the website as plain text. Never paste it from a Gmail window, because that
 | Company type | The one idea to offer | Example |
 |---|---|---|
 | AI video, image, audio or creative software | "{Product} Award for the best film made with {Product}", plus a pre-festival contest that feeds entries in (the CapCut model) | Picsart |
+| Film studios and production houses | A first-look or commission award: they develop the winning AI film or series | CJ ENM |
+| Film equipment (cameras, lenses, lighting, audio) | Official equipment partner: kit for finalists, a masterclass, a technical award | |
+| Dubbing, voice and localisation AI | Official dubbing partner: finalists' films dubbed into more languages, plus an award | |
+| Local Indian AI companies, global AI with India operations | A named award plus a demo at the Grand Finale and at the India edition | HUMAIN |
 | Phones, cameras, drones | "Shot on {Product}" award for AI films made on the device | Motorola, TECNO |
 | Screens, TVs, projectors | Official screen partner: finalists shown on their screens in Cannes and the editions | Hisense |
 | Storage, cloud, compute, chips | Official technical partner (every submission or render runs on them), plus the technical prize | Wasabi, Lexar |
@@ -228,8 +253,8 @@ Follow-ups go in the same thread and never start with "Following up on the note 
 2. Every address is verified and has never bounced. The company is not on the do-not-repeat list.
 3. The subject is 2 to 5 words, lowercase, with no banned word and no em dash, and it matches line 1.
 4. Line 1 is a dated fact about them. It is not flattery.
-5. There is one idea, one proof point and one question.
-6. The sponsor body is 50 to 90 words (the organizer body is up to 110).
+5. There is one appreciation, two or three verified data points, one idea and one meeting question.
+6. Sponsor Variant A is 100 to 150 words, Variant B is 50 to 90, and the organizer version is 120 to 170. No sentence runs over about 25 words.
 7. Every WAiFF fact is from section 2. Nothing is from section 3.
 8. There is no price, deck, attachment, link other than the website, ROI or reach number.
 9. There are no em dashes, semicolons, exclamation marks or hype words.
@@ -239,7 +264,21 @@ Follow-ups go in the same thread and never start with "Following up on the note 
 
 ## 11. Worked examples
 
-**Sponsor (AI creative app)**
+**Sponsor, Variant A (standard)**
+```
+SUBJECT: picsart award in cannes
+Hi {first},
+
+Picsart's Happy Horse awards with Alibaba Cloud caught my eye. It is rare to see a creative app put its own money behind AI filmmakers.
+
+I'm Aditya Upadhyay, India Ambassador for the World AI Film Festival (WAiFF), founded by Marco Landi, former President and COO of Apple. Our 2026 edition at the Palais des Festivals in Cannes, presided over by Gong Li, drew more than 5,000 AI films from over 80 countries, and CapCut and MiniMax each presented a named prize on stage. The third edition, the Grand Finale, runs on 6 and 7 April 2027.
+
+Idea: a Picsart Award for the best film made with Picsart, running through our editions from Seoul to London and presented on the Cannes stage.
+
+Could we find 20 minutes next week? I can work around your time zone.
+```
+
+**Sponsor, Variant B (short test)**
 ```
 SUBJECT: picsart award in cannes
 Hi {first},
@@ -253,7 +292,7 @@ Idea: a Picsart Award for the best film made with Picsart, running through our e
 Worth a look?
 ```
 
-**Sponsor (brand already at Cannes)**
+**Sponsor, Variant B (brand already at Cannes)**
 ```
 SUBJECT: renault and cinema in cannes
 Hi {first},
