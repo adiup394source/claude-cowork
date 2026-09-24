@@ -1,0 +1,74 @@
+# WAiFF sponsor research — Round 2 (new ground beyond festival_sponsor_map.md)
+
+Compiled 19 Sep 2026. Pure web research (WebSearch + WebFetch only, no outreach). Every company below was checked as a substring against `/tmp/waiff/exclusion_str.txt` (545 entries) and against the 96-company Part 3 list in `festival_sponsor_map.md`, and dropped if it matched either. A few sponsors that appeared in Part 1/2 of the original file but were never carried into its Part 3 consolidated list are included here too, since they are new *targets* even though the festival itself was already logged.
+
+---
+
+## New festivals found (not in festival_sponsor_map.md)
+
+| # | Festival | Where / when | Established since | Notes |
+|---|---|---|---|---|
+| 1 | **Runway Gen:48** (48-Hour AI Film Challenge) | Global, online, recurring editions (3rd annual ran 2025) | 2023 | Runway's own recurring hackathon-style contest, distinct from the AIF festival already logged. Site names a "Presenting Partners" section but lists no partner names. Source: [runway.com/gen48](https://runway.com/gen48) |
+| 2 | **Astana AI Film Festival (AAIFF) 2026** | Astana, Kazakhstan, 1-3 Oct 2026 | Inaugural (2026) | $2M total fund ($1M prizes + $1M production fund); 8,067 submissions from 125 countries; Balaji Srinivasan hand-picks production-fund recipients. Source: [aaiff.ai](https://aaiff.ai/) |
+| 3 | **AI Film Fest Monaco 2026** | One Monte Carlo, Monaco, 9-10 Jun 2026 | Inaugural (2026), presented by WAIBSUMMIT | Strong sponsor wall including several new-to-us names. Source: [aifilmfest-monaco.com](https://aifilmfest-monaco.com/) |
+| 4 | **AI International Film Festival** | Hollywood, LA (monthly), since 2021 | Established — 26 events run, 3,100+ submissions | 501(c)(3) nonprofit, no corporate sponsors named; blind judging model. Source: [aifilmfest.org](https://aifilmfest.org/) |
+| 5 | **Sparknify Human vs. AI Film Festival 2026** | Delancey Street Screening Room, San Francisco, 26 Sep 2026 | New (2026) | 3,000+ submissions, 200+ academic judges; no named corporate sponsors found. Source: [sparknify.com](https://www.sparknify.com/human-vs-ai-film-festival) |
+| 6 | **Seattle AI Film Festival (SAIFF)** | Seattle (M5 Creative Building), Apr 2025 | Inaugural 2025 | Microsoft ran a Guinness World Records AI-literacy stunt there (Microsoft already excluded). Source: [Substack recap](https://adriennelahens.substack.com/p/inside-the-seattle-ai-film-festival) |
+| 7 | **MIT AI for Filmmaking Hackathon** | MIT Media Lab, Cambridge MA, Feb 2024 (annual, "MIT Global AI Film Hack 2026" listed for 2026) | Since 2024 | Large AI-tool sponsor list, several genuinely new names (below). Source: [media.mit.edu](https://www.media.mit.edu/posts/mit-ai-for-filmmaking-hackathon-2024/) |
+| 8 | **iQIYI Global AI Creator Challenge** | Online/global, submissions opened 10 Sep 2026 | New (2026) | Chinese streaming giant iQIYI's own AI filmmaking contest, built on its NadouPro platform and Alibaba's Wan3.0 model; supports creators in 20+ countries. Source: [ohsem.me](https://ohsem.me/2026/09/iqiyi-advances-professional-ai-filmmaking-with-launch-of-global-ai-creator-challenge-powered-by-nadoupro-and-alibabas-wan3-0/) |
+| 9 | **Goethe-Institut "AIsolation" AI Short Film Competition** | China/Germany (screening in Shanghai + Berlin Art Week), Sep 2025 | 2025 | Run by Goethe-Institut East/Central Asia with the German Consulate Shanghai; partners are cultural institutions, not corporate sponsors. Source: [goethe.de](https://www.goethe.de/prj/sol/en/ais.html) |
+| 10 | **AI Creative Summit at BFI Southbank** | London, 11 Nov 2026 | Recurring (2nd/3rd year); first full BFI Southbank takeover in 2026 | Industry trade event (Broadcast/Screen International), not a sponsor-funded festival — attendee list (Disney, Netflix, WBD, Apple TV, BBC etc.) is not a sponsor list. Source: [theknowledgeonline.com](https://theknowledgeonline.com/news/ai-creative-summit-returns-with-bfi-southbank-takeover) |
+| 11 | **Nigeria AI Film Festival (NAIFF)** | Alliance Française, Lagos, Sep 2026 (2nd edition) | 2025 | Founded by Obinna Okerekeocha; 400+ submissions in year 1; no named sponsors found yet. Source: [thelagosreview.ng](https://thelagosreview.ng/nigeria-ai-film-festival-opens-2026-call-for-entries/) |
+| 12 | **AI Film Awards Brasil 2026** | Itaú Cultural Auditorium, São Paulo, 6-8 Nov 2026 | Inaugural Brazilian edition (organizer KM Universe, same group as the AI Film Awards Cannes/Dubai/Bali/Venice circuit already logged) | Real corporate + government backing (below). Source: [filmfreeway.com/aifilmawardsBrasil2026](https://filmfreeway.com/aifilmawardsBrasil2026) |
+| 13 | **CAIS — CloudWalk AI Shorts Festival** | Brazil, annual (1st edition 2025) | 2025 | Run by Brazilian AI/fintech company CloudWalk itself. Same company also **sponsors WAIFF Brazil directly** (see below) — direct precedent for a WAiFF sponsorship pitch. Source: [cloudwalk.io/cais](https://www.cloudwalk.io/cais) and [cloudwalk.io sponsorship article](https://www.cloudwalk.io/newsroom/cloudwalk-sponsors-waiff-and-brings-ai-discussions-to-brazils-largest-festival-of-films-made-with-artificial-intelligence) |
+| 14 | **Indywood International AI Cinefest** | Kochi/Kakkanad, Kerala, India, Mar 2026 | New, India-specific | A genuinely India-based AI film festival missed in round 1 (founder Sohan Roy / Indywood). Page could not be fetched for sponsor names (JS-only site); worth a manual look before outreach. Source: [indywood.co.in/ai-film-festival](https://indywood.co.in/ai-film-festival) ; [FilmFreeway listing](https://filmfreeway.com/IndywoodInternationalAICinefest) |
+| 15 | **Korea International AI Film Festival (K-AIFF)** and sibling Korean events (Daejeon Intl AI FF, Seoul Intl AI FF, Jeju Global AI Film Contest, Gyeongsangbuk-do AI·Metaverse FF, K-Culture AI Intl FF) | Various Korean cities, 2025-2026 | Mixed — several new for 2026 | Korea is building an unusually dense AI-film-festival circuit (regional-government backed); no corporate sponsor names surfaced in this pass — worth a dedicated follow-up sweep. Source: [gcon.or.kr/eng/aiff.html](https://www.gcon.or.kr/eng/aiff.html) |
+
+**Aggregator note:** a directory site ([videee.com/ai-film-festivals](https://videee.com/ai-film-festivals)) lists ~90 small AI film festivals worldwide (Toronto, Chicago, Prague, Bucharest, Tirana, Larissa, Burano, Sydney, Auckland, Istanbul etc.). Nearly all of these are indie, submission-fee-funded events with no named corporate sponsor — they are useful as a long submission/press list but not as sponsor leads, so they are not itemized individually here.
+
+---
+
+## New sponsor companies (not in exclusion list, not in Part 3 of festival_sponsor_map.md)
+
+| # | Company | Category | Sponsors (source) | India presence | WAiFF pitch angle |
+|---|---|---|---|---|---|
+| 1 | **CloudWalk** (Brazilian AI/fintech, makers of InfinitePay, Jim, Pierre) | fintech / AI payments | Named-rights sponsor of **WAIFF Brazil 2026** (São Paulo, auditorium naming) and runs its own CAIS AI Shorts Festival ([cloudwalk.io](https://www.cloudwalk.io/newsroom/cloudwalk-sponsors-waiff-and-brings-ai-discussions-to-brazils-largest-festival-of-films-made-with-artificial-intelligence)) | N | **Already sponsors a WAiFF edition** — the single easiest new-money ask in this whole batch; pitch a matching activation for WAiFF India/Mumbai |
+| 2 | **AWS (Amazon Web Services)** | cloud / compute | Sponsor, AI Film Fest Monaco 2026 ([aifilmfest-monaco.com](https://aifilmfest-monaco.com/)) | Y (Mumbai + Hyderabad regions) | Compute-credit prize pool for AI filmmakers; distinct pitch from Amazon Prime Video / Amazon MGM (already flagged elsewhere) |
+| 3 | **iQIYI** | OTT / streaming (China) | Organizes the Global AI Creator Challenge on its NadouPro platform ([ohsem.me](https://ohsem.me/2026/09/iqiyi-advances-professional-ai-filmmaking-with-launch-of-global-ai-creator-challenge-powered-by-nadoupro-and-alibabas-wan3-0/)) | N | Regional-content ambitions; AI-drama category exchange between China and India creators |
+| 4 | **NadouPro** (iQIYI's professional AI film/TV production platform) | AI tool | Same challenge as above | N | Tool-credit prize for a professional AI-production category |
+| 5 | **Nolibox** | AI creative tool (China) | MIT AI for Filmmaking Hackathon sponsor ([media.mit.edu](https://www.media.mit.edu/posts/mit-ai-for-filmmaking-hackathon-2024/)) | ? | Tool credits for student/emerging-filmmaker track |
+| 6 | **MyShell** | AI tool / creator platform | MIT AI for Filmmaking Hackathon sponsor | ? | Tool credits; AI-character / voice category |
+| 7 | **Tripo AI** | AI tool (3D generation) | MIT AI for Filmmaking Hackathon sponsor | ? | 3D-asset credits for an AI-animation or previs category |
+| 8 | **Artflow** | AI tool (AI animation/anime) | MIT AI for Filmmaking Hackathon sponsor | ? | Anime-style AI animation category, aimed at India's large anime-fan youth audience |
+| 9 | **Itaú (Itaú Unibanco)** | banking | Primary sponsor, AI Film Awards Brasil 2026 ([filmfreeway.com/aifilmawardsBrasil2026](https://filmfreeway.com/aifilmawardsBrasil2026)) | N | Low priority for India edition; useful precedent that banks fund AI-film prizes — pitch to an Indian bank instead (see insights) |
+| 10 | **Wedo Entertainment** | media / distribution | Online distribution partner, AI Film Awards Brasil 2026 (same source) | N | Distribution partner model — could pitch an Indian OTT/distributor on the same "official streaming partner" slot |
+| 11 | **Sky Studios Italy** | OTT / broadcast (Comcast/Sky) | Premium Partner, Reply AI Film Festival 2026, Venice ([reply.com](https://www.reply.com/en/artificial-intelligence/reply-ai-film-festival)) — named in round-1 research but never carried into the Part 3 target list | N | Studio partner slot; talent-scouting and co-production angle |
+| 12 | **WeShort** | platform (AI / short-form drama) | Community Partner, Reply AI Film Festival 2026 (same source) | ? | Vertical/short-drama format is booming in India; natural distribution tie-in |
+| 13 | **Al-Fardan Exchange** | fintech / forex | Founding Partner, Dubai AI Festival 2026 ([dubaiaifestival.com](https://dubaiaifestival.com/)) — named in round-1 research, not in Part 3 | ? (large NRI/Indian-diaspora customer base in the Gulf) | Remittance brand serving the India-Gulf corridor; sponsor a "diaspora storytelling" award |
+| 14 | **KB Financial Group** | banking (Korea) | Diamond Partner, Dubai AI Festival 2026 (same source) | N | Low priority for India; Korea-India banking-culture angle only |
+| 15 | **Mantika** | creative / AI (unclear sector) | Gold Partner, Dubai AI Festival 2026 (same source) | ? | Needs further verification before outreach — flagged, not verified in depth |
+| 16 | **Halo AI** | AI tool / creator platform | Partner, 1 Billion Followers Summit 2026, Dubai ([hidubai.com](https://focus.hidubai.com/1-billion-followers-summit-unveils-sponsors-and-partners-for-fourth-edition-in-dubai/)) — named in round-1 research, not in Part 3 | ? | Tool-credit prize; creator-economy angle |
+| 17 | **VOSS** | beverage (premium/luxury water) | Partner, 1 Billion Followers Summit 2026, Dubai (same source) | ? (sold via India import/luxury retail) | Red-carpet hospitality partner, same slot as MAMI's beauty/beverage partners |
+| 18 | **Imperial College London** | academic | Partner, AI Film Fest Monaco 2026 ([aifilmfest-monaco.com](https://aifilmfest-monaco.com/)) | Y (India recruitment/research ties) | Lower priority (academic, not a cash sponsor) — better as a masterclass/jury partner than a check-writer |
+
+That is **18 new sponsor companies** with sources, plus 4 organizations flagged as low-priority/uncertain within the table (Mantika, Halo AI, VOSS, Imperial College London need more verification before drafting).
+
+### Checked and confirmed already excluded (found while researching, not re-added)
+- **Freedom** (Freedom Holding Corp) — primary sponsor of Astana AI Film Festival — already in the exclusion list.
+- **Dreamina AI** — sponsoring a €40,000 Annecy 2026 prize pool — it's a ByteDance/CapCut product, already covered via the ByteDance/CapCut overlap note in the original file.
+- Adobe's "$10M in Creator Grants" announced around Sundance 2026 — Adobe already excluded.
+- Microsoft's Guinness World Records stunt at the Seattle AI Film Festival — Microsoft already excluded.
+
+### Not pursued further (institutional / low commercial value, not "companies with a checkbook")
+Ministry of Culture (Brazil), SPCine, FAAP, UltraVioleta (WAIFF Brazil co-producers/venue, not sponsors), Network School, AI & Digital Bridge, ZGC Science Fiction Industry Innovation Center (Astana partners — state/quasi-state bodies), KOFIC, KOCCA (Korean government film bodies named at Busan ACFM in the original file).
+
+---
+
+## Insights from this round
+
+1. **CloudWalk is the standout find** — it is the only company in this whole sweep that already sponsors a WAiFF edition by name (auditorium naming rights at WAIFF Brazil). That is a warm, low-friction lead: WAiFF's own India/global team can likely reach the same sponsorship desk that closed the Brazil deal.
+2. **The AI-film-festival circuit has exploded past what round 1 captured** — roughly 90 small, indie, submission-fee AI film festivals now exist globally (Videee's directory), but the overwhelming majority carry no named corporate sponsor; they're SEO/community plays, not sponsor leads.
+3. **Korea is quietly building the densest regional AI-film-festival cluster** (at least 6 named events across Seoul, Daejeon, Jeju, Gyeonggi-do and Gyeongsangbuk-do), all appearing to be regional-government or cultural-agency backed rather than corporate-sponsored — worth a dedicated follow-up pass focused on Korean corporate names (Samsung, LG, Hyundai are all already excluded, but component/entertainment companies like CJ ENM, Kakao, Naver have not been checked).
+4. **Banks are entering this space via sponsorship, not just fintech/AI companies** — Itaú (Brazil) and KB Financial Group (Korea) both bought naming-tier sponsorships at AI film events in 2026. Neither has India relevance, but it validates pitching an Indian bank (e.g., a private bank not already on WAiFF's contacted list) on the same model.
+5. **University/hackathon-tier AI-tool sponsors (Nolibox, MyShell, Tripo AI, Artflow) pay in credits, not cash**, matching the pattern already noted in round 1 for the Chroma/Odyssey tool tiers — useful for in-kind prize pools, not headline sponsorship revenue.
+6. **India-specific gap confirmed**: only one genuinely new India-based AI film event surfaced (Indywood International AI Cinefest, Kochi) beyond what round 1 already found (IFFI, WAVES, India AI Film Festival, BHAI, MAMI). Its sponsor list could not be fetched and should be checked manually via FilmFreeway or Instagram before any outreach.
